@@ -1,4 +1,4 @@
-# 🍔 Food Delivery Time Prediction
+# TimeCast– ML-Based ETA Prediction Platform
 
 A Machine Learning project that predicts food delivery time based on real-world factors like distance, weather, traffic, and preparation time. The project includes a fully interactive Streamlit web app for real-time predictions.
 
